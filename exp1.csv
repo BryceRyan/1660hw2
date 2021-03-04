@@ -1,0 +1,4 @@
+﻿exp1_name,details,Was_Docker_Implementation_Easy
+build docker image,Run docker on Windows,Yes
+install container,Pull the correct env,Yes
+run program,Run on the environment,Yes

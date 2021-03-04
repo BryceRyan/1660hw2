@@ -1,0 +1,6 @@
+﻿exp2_name,Experiment_2_details,software_name
+make bucket,Build container,S3
+build NoSQL Database,Build DB on AWS,Dynamo DB
+configure db,Make DB public,Dynamo DB
+add data,Add data to DB,Dynamo DB
+query db,Check to see we can pull data,Python/boto3
