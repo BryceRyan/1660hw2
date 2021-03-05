@@ -1,6 +1,7 @@
 import boto3
 import csv
 
+# The account keys are disabled so I don't compromise my account, FYI.  If you need to test with working keys let me know.
 s3 = boto3.resource('s3', aws_access_key_id='AKIAJLPDRDFX65JR5KEQ', aws_secret_access_key='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')
 
 try:
